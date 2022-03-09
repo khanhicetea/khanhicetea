@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**khanhicetea/khanhicetea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Khanh Nguyen (KhanhIceTea or Khanh-Trà-Đá),
 
-Here are some ideas to get you started:
+Just a writer in Technology, Learning & System Thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My latest blog posts (this list is automated update using GitHub Actions) :
+
+- [#TIL : DirectAdmin change document root to public directory](https://khanhicetea.com/til/2022-03-09-directadmin-change-document-root-to-public-directory/)
+- [Một thứ có giới hạn mà quan trọng nhất trong cuộc đời](https://khanhicetea.com/posts/mot-thu-co-gioi-han-quan-trong-nhat-trong-cuoc-doi/)
+- [Tech Tips : Fixing Linux lagging on Laptop Dell XPS 9310](https://khanhicetea.com/posts/fixing-Linux-lagging-on-laptop-Dell-XPS-9310/)
+- [Tech Tips : Disable required Telemetry from Microsoft Edge](https://khanhicetea.com/posts/how-to-disable-required-telemetry-from-ms-edge/)
+- [Bốn chữ Có trong ngành Phát Triển Phần Mềm](https://khanhicetea.com/posts/four-able-in-software-development/)
+- [JSON Key Ordering is a mess](https://khanhicetea.com/posts/json-key-ordering-is-a-mess/)
+- [Tại sao iOS & macOS lại mượt hơn Android & Windows ?](https://khanhicetea.com/posts/tai-sao-ios-macos-lai-muot-hon-android-windows/)
+- [Ly trà đá mới !](https://khanhicetea.com/posts/ly-tra-da-moi/)
+- [Học cách để Học - học VỪA ĐỦ mà HIỆU QUẢ](https://khanhicetea.com/posts/hoc-cach-de-hoc-hoc-it-hon-hieu-qua-hon/)
+- [Three most important things make impact to MySQL performance](https://khanhicetea.com/posts/MySQL-become-slow-check-three-important-things/)
+- [FastAPI Tips : Better Jinja2 Dependency Way](https://khanhicetea.com/posts/fastapi-better-jinja2-dependency-way/)
+
+Hope you enjoy ! ;)
+
+*Updated at 2022-03-09 23:42:50*
