@@ -18,6 +18,8 @@ Just a writer in Technology, Learning & System Thinking
 - [Three most important things make impact to MySQL performance](https://khanhicetea.com/posts/MySQL-become-slow-check-three-important-things/)
 - [FastAPI Tips : Better Jinja2 Dependency Way](https://khanhicetea.com/posts/fastapi-better-jinja2-dependency-way/)
 
+And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
+
 Hope you enjoy ! ;)
 
-*Updated at 2022-03-09 23:42:50*
+*Updated at 2022-03-09 23:58:21 by GitHub Actions*

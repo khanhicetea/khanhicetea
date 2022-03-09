@@ -1,6 +1,8 @@
 name: auto_readme
 
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: "0 17 * * *"
 
 jobs:
   build:

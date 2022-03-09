@@ -8,6 +8,8 @@ Just a writer in Technology, Learning & System Thinking
 
 @@@LATEST_BLOG_POSTS@@@
 
+And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
+
 Hope you enjoy ! ;)
 
-*Updated at @@@UPDATED_AT@@@*
+*Updated at @@@UPDATED_AT@@@ by GitHub Actions*
