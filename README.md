@@ -4,7 +4,7 @@ I'm Khanh Nguyen (KhanhIceTea or Khanh-Trà-Đá),
 
 Just a writer in Technology, Learning & System Thinking
 
-#### My latest blog posts (this list is automated update using GitHub Actions) :
+#### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
 - [#TIL : DirectAdmin change document root to public directory](https://khanhicetea.com/til/2022-03-09-directadmin-change-document-root-to-public-directory/)
 - [Một thứ có giới hạn mà quan trọng nhất trong cuộc đời](https://khanhicetea.com/posts/mot-thu-co-gioi-han-quan-trong-nhat-trong-cuoc-doi/)
@@ -22,4 +22,4 @@ And **I write down things I learned everyday** in this repo : https://github.com
 
 Hope you enjoy ! ;)
 
-*Updated at 2022-03-09 23:58:21 by GitHub Actions*
+*Updated at 2022-03-10 00:02:19 by GitHub Actions*
