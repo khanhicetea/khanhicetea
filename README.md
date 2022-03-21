@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [#TIL : Becareful on using port mapping of Docker in Development](https://khanhicetea.com/til/2022-03-17-becareful-on-using-port-mapping-of-docker-in-development/)
 - [#TIL : Using extra hosts to add custom ip of hostnames to Docker container](https://khanhicetea.com/til/2022-03-16-using-extra-hosts-to-add-custom-ip-of-hostnames-to-docker-container/)
 - [#TIL : Laravel run scheduled command within parent environment](https://khanhicetea.com/til/2022-03-15-laravel-run-scheduled-command-within-parent-environment/)
 - [#TIL : Minimize Google PHP SDK before deploying on production](https://khanhicetea.com/til/2022-03-14-minimize-google-php-sdk-before-deploying-on-production/)
@@ -16,10 +17,9 @@ Just a writer in Technology, Learning & System Thinking
 - [Tech Tips : Disable required Telemetry from Microsoft Edge](https://khanhicetea.com/posts/how-to-disable-required-telemetry-from-ms-edge/)
 - [Bốn chữ Có trong ngành Phát Triển Phần Mềm](https://khanhicetea.com/posts/four-able-in-software-development/)
 - [JSON Key Ordering is a mess](https://khanhicetea.com/posts/json-key-ordering-is-a-mess/)
-- [Tại sao iOS & macOS lại mượt hơn Android & Windows ?](https://khanhicetea.com/posts/tai-sao-ios-macos-lai-muot-hon-android-windows/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2022-03-20 00:36:08 by GitHub Actions*
+*Updated at 2022-03-21 00:35:27 by GitHub Actions*
