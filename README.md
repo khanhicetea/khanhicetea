@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [Weighted Round Robin : Scheduling Algorithm](https://khanhicetea.com/posts/weighted-round-robin-scheduling/)
 - [[MarTech] Google Analytics 4 - How to Improve Delayed Collecting Data After Trigger](https://khanhicetea.com/posts/google-analytics-4-gtag-delayed-collect-data-after-trigger/)
 - [#TIL : Becareful on using port mapping of Docker in Development](https://khanhicetea.com/til/2022-03-17-becareful-on-using-port-mapping-of-docker-in-development/)
 - [#TIL : Using extra hosts to add custom ip of hostnames to Docker container](https://khanhicetea.com/til/2022-03-16-using-extra-hosts-to-add-custom-ip-of-hostnames-to-docker-container/)
@@ -16,10 +17,9 @@ Just a writer in Technology, Learning & System Thinking
 - [Một thứ có giới hạn mà quan trọng nhất trong cuộc đời](https://khanhicetea.com/posts/mot-thu-co-gioi-han-quan-trong-nhat-trong-cuoc-doi/)
 - [Tech Tips : Fixing Linux lagging on Laptop Dell XPS 9310](https://khanhicetea.com/posts/fixing-Linux-lagging-on-laptop-Dell-XPS-9310/)
 - [Tech Tips : Disable required Telemetry from Microsoft Edge](https://khanhicetea.com/posts/how-to-disable-required-telemetry-from-ms-edge/)
-- [Bốn chữ Có trong ngành Phát Triển Phần Mềm](https://khanhicetea.com/posts/four-able-in-software-development/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2022-06-05 00:50:43 by GitHub Actions*
+*Updated at 2022-06-06 00:48:43 by GitHub Actions*
