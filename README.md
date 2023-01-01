@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [2022](https://khanhicetea.com/posts/2022-recap/)
 - [Weighted Round Robin : Scheduling Algorithm](https://khanhicetea.com/posts/weighted-round-robin-scheduling/)
 - [[MarTech] Google Analytics 4 - How to Improve Delayed Collecting Data After Trigger](https://khanhicetea.com/posts/google-analytics-4-gtag-delayed-collect-data-after-trigger/)
 - [#TIL : Becareful on using port mapping of Docker in Development](https://khanhicetea.com/til/2022-03-17-becareful-on-using-port-mapping-of-docker-in-development/)
@@ -16,10 +17,9 @@ Just a writer in Technology, Learning & System Thinking
 - [#TIL : DirectAdmin change document root to public directory](https://khanhicetea.com/til/2022-03-09-directadmin-change-document-root-to-public-directory/)
 - [Một thứ có giới hạn mà quan trọng nhất trong cuộc đời](https://khanhicetea.com/posts/mot-thu-co-gioi-han-quan-trong-nhat-trong-cuoc-doi/)
 - [Tech Tips : Fixing Linux lagging on Laptop Dell XPS 9310](https://khanhicetea.com/posts/fixing-Linux-lagging-on-laptop-Dell-XPS-9310/)
-- [Tech Tips : Disable required Telemetry from Microsoft Edge](https://khanhicetea.com/posts/how-to-disable-required-telemetry-from-ms-edge/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2022-12-31 00:39:33 by GitHub Actions*
+*Updated at 2023-01-01 00:46:40 by GitHub Actions*
