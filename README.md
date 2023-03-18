@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [View CrUX Dashboard - Your site web core vitals - Realtime User Measurement](https://khanhicetea.com/posts/view-crux-dashboard-your-rum-web-vital-cores/)
 - [Tại sao không viết bằng AI - aka GPT](https://khanhicetea.com/posts/tai-sao-khong-viet-bang-AI-aka-GPT/)
 - [Chẳng có cái hộp nào cả !!](https://khanhicetea.com/posts/chang-co-cai-hop-nao-ca/)
 - [2022](https://khanhicetea.com/posts/2022-recap/)
@@ -16,10 +17,9 @@ Just a writer in Technology, Learning & System Thinking
 - [#TIL : Laravel run scheduled command within parent environment](https://khanhicetea.com/til/2022-03-15-laravel-run-scheduled-command-within-parent-environment/)
 - [#TIL : Minimize Google PHP SDK before deploying on production](https://khanhicetea.com/til/2022-03-14-minimize-google-php-sdk-before-deploying-on-production/)
 - [#TIL : Getting back Whoops error pages in Laravel 9](https://khanhicetea.com/til/2022-03-13-getting-back-whoops-error-pages-in-laravel-9/)
-- [#TIL : DirectAdmin change document root to public directory](https://khanhicetea.com/til/2022-03-09-directadmin-change-document-root-to-public-directory/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2023-03-17 00:42:59 by GitHub Actions*
+*Updated at 2023-03-18 00:41:46 by GitHub Actions*
