@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [Over some-thing](https://khanhicetea.com/posts/over-something/)
 - [We were born and died in same way, so live differently](https://khanhicetea.com/posts/live-different/)
 - [Work Experience Timeline](https://khanhicetea.com/posts/work-experience-timeline/)
 - [Negative feelings](https://khanhicetea.com/posts/negative-feelings/)
@@ -16,10 +17,9 @@ Just a writer in Technology, Learning & System Thinking
 - [Tại sao không viết bằng AI - aka GPT](https://khanhicetea.com/posts/tai-sao-khong-viet-bang-AI-aka-GPT/)
 - [Chẳng có cái hộp nào cả !!](https://khanhicetea.com/posts/chang-co-cai-hop-nao-ca/)
 - [2022](https://khanhicetea.com/posts/2022-recap/)
-- [Weighted Round Robin : Scheduling Algorithm](https://khanhicetea.com/posts/weighted-round-robin-scheduling/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2023-06-15 00:45:06 by GitHub Actions*
+*Updated at 2023-06-16 00:46:15 by GitHub Actions*
