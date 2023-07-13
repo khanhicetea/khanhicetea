@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [Being kind](https://khanhicetea.com/posts/being-kind-is-a-human-choice/)
 - [Ready for 1%](https://khanhicetea.com/posts/ready-for-1-percent/)
 - [Over some-thing](https://khanhicetea.com/posts/over-something/)
 - [We were born and died in same way, so live differently](https://khanhicetea.com/posts/live-different/)
@@ -16,10 +17,9 @@ Just a writer in Technology, Learning & System Thinking
 - [Negative Force - Balanced Life](https://khanhicetea.com/posts/negative-force-make-life-balance/)
 - [View CrUX Dashboard - Your site web core vitals - Realtime User Measurement](https://khanhicetea.com/posts/view-crux-dashboard-your-rum-web-vital-cores/)
 - [Tại sao không viết bằng AI - aka GPT](https://khanhicetea.com/posts/tai-sao-khong-viet-bang-AI-aka-GPT/)
-- [Chẳng có cái hộp nào cả !!](https://khanhicetea.com/posts/chang-co-cai-hop-nao-ca/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2023-07-12 00:52:42 by GitHub Actions*
+*Updated at 2023-07-13 00:53:28 by GitHub Actions*
