@@ -16,7 +16,7 @@ soup = BeautifulSoup(fetch(HOMEPAGE), "html.parser")
 
 posts = []
 
-for a in soup.select("div.item-content > p.item-title > a"):
+for a in soup.select('h2 > a[href*="/posts/"]'):
     posts.append({
         "url": f"{HOMEPAGE}{a.get('href')}",
         "title": a.text,
