@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [No.1 Productivity Hack Of My Life](https://khanhicetea.com/posts/productivity-hack-just-ship-the-shit/)
 - [Game of Life vs Life of Game](https://khanhicetea.com/posts/game-of-life/)
 - [An](https://khanhicetea.com/posts/an-lil-wuyn/)
 - [Being kind](https://khanhicetea.com/posts/being-kind-is-a-human-choice/)
@@ -15,10 +16,9 @@ Just a writer in Technology, Learning & System Thinking
 - [Work Experience Timeline](https://khanhicetea.com/posts/work-experience-timeline/)
 - [Negative feelings](https://khanhicetea.com/posts/negative-feelings/)
 - [When something goes wrong](https://khanhicetea.com/posts/when-something-goes-wrong/)
-- [Tại sao lại tính diện tích hình tam giác như thế?](https://khanhicetea.com/posts/tai-sao-lai-tinh-dien-tich-hinh-tam-giac-nhu-the/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2023-10-02 00:36:25 by GitHub Actions*
+*Updated at 2023-10-03 00:36:13 by GitHub Actions*
