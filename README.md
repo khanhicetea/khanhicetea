@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [Same vendor fallback is pointless](https://khanhicetea.com/posts/same-vendor-fallback-is-pointless/)
 - [No.1 Productivity Hack Of My Life](https://khanhicetea.com/posts/productivity-hack-just-ship-the-shit/)
 - [Game of Life vs Life of Game](https://khanhicetea.com/posts/game-of-life/)
 - [An](https://khanhicetea.com/posts/an-lil-wuyn/)
@@ -15,10 +16,9 @@ Just a writer in Technology, Learning & System Thinking
 - [We were born and died in same way, so live differently](https://khanhicetea.com/posts/live-different/)
 - [Work Experience Timeline](https://khanhicetea.com/posts/work-experience-timeline/)
 - [Negative feelings](https://khanhicetea.com/posts/negative-feelings/)
-- [When something goes wrong](https://khanhicetea.com/posts/when-something-goes-wrong/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2023-10-05 00:35:56 by GitHub Actions*
+*Updated at 2023-10-06 00:35:51 by GitHub Actions*
