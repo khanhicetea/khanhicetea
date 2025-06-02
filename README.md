@@ -6,6 +6,7 @@ Just a writer in Technology, Learning & System Thinking
 
 #### My latest blog posts on khanhicetea.com (this list is automated update using GitHub Actions) :
 
+- [Learn Claude Prompt Engineering Course](https://khanhicetea.com/posts/learn-claude-prompt-engineering-course/)
 - [Learn React Router v7 - part 1 : Routing](https://khanhicetea.com/posts/learn-react-router-v7-part-1/)
 - [Server Island in Web : behind the 'land'](https://khanhicetea.com/posts/server-island-behind-the-land/)
 - [Same vendor fallback is pointless](https://khanhicetea.com/posts/same-vendor-fallback-is-pointless/)
@@ -15,10 +16,9 @@ Just a writer in Technology, Learning & System Thinking
 - [Being kind](https://khanhicetea.com/posts/being-kind-is-a-human-choice/)
 - [Ready for 1%](https://khanhicetea.com/posts/ready-for-1-percent/)
 - [Over some-thing](https://khanhicetea.com/posts/over-something/)
-- [We were born and died in same way, so live differently](https://khanhicetea.com/posts/live-different/)
 
 And **I write down things I learned everyday** in this repo : https://github.com/khanhicetea/today-i-learned
 
 Hope you enjoy ! ;)
 
-*Updated at 2025-06-01 01:10:27 by GitHub Actions*
+*Updated at 2025-06-02 01:01:25 by GitHub Actions*
